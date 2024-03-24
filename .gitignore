@@ -36,3 +36,7 @@ dist/
 
 # Ignore sensitive or personal information
 secrets.json
+
+# Exclude HTML and CSS files
+!*.html
+!*.css
